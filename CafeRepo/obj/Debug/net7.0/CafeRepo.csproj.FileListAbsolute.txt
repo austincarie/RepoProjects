@@ -1,0 +1,14 @@
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\codingFoundations\dotnetProjects\csharpBasics\RepoConsoleProjects\CafeRepo\bin\Debug\net7.0\CafeRepo.exe
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\codingFoundations\dotnetProjects\csharpBasics\RepoConsoleProjects\CafeRepo\bin\Debug\net7.0\CafeRepo.deps.json
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\codingFoundations\dotnetProjects\csharpBasics\RepoConsoleProjects\CafeRepo\bin\Debug\net7.0\CafeRepo.runtimeconfig.json
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\codingFoundations\dotnetProjects\csharpBasics\RepoConsoleProjects\CafeRepo\bin\Debug\net7.0\CafeRepo.dll
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\codingFoundations\dotnetProjects\csharpBasics\RepoConsoleProjects\CafeRepo\bin\Debug\net7.0\CafeRepo.pdb
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\codingFoundations\dotnetProjects\csharpBasics\RepoConsoleProjects\CafeRepo\obj\Debug\net7.0\CafeRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\codingFoundations\dotnetProjects\csharpBasics\RepoConsoleProjects\CafeRepo\obj\Debug\net7.0\CafeRepo.AssemblyInfoInputs.cache
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\codingFoundations\dotnetProjects\csharpBasics\RepoConsoleProjects\CafeRepo\obj\Debug\net7.0\CafeRepo.AssemblyInfo.cs
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\codingFoundations\dotnetProjects\csharpBasics\RepoConsoleProjects\CafeRepo\obj\Debug\net7.0\CafeRepo.csproj.CoreCompileInputs.cache
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\codingFoundations\dotnetProjects\csharpBasics\RepoConsoleProjects\CafeRepo\obj\Debug\net7.0\CafeRepo.dll
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\codingFoundations\dotnetProjects\csharpBasics\RepoConsoleProjects\CafeRepo\obj\Debug\net7.0\refint\CafeRepo.dll
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\codingFoundations\dotnetProjects\csharpBasics\RepoConsoleProjects\CafeRepo\obj\Debug\net7.0\CafeRepo.pdb
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\codingFoundations\dotnetProjects\csharpBasics\RepoConsoleProjects\CafeRepo\obj\Debug\net7.0\CafeRepo.genruntimeconfig.cache
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\codingFoundations\dotnetProjects\csharpBasics\RepoConsoleProjects\CafeRepo\obj\Debug\net7.0\ref\CafeRepo.dll

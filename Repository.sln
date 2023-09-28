@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeRepo", "CafeRepo\CafeRepo.csproj", "{03D1DA53-60B7-4B97-87EE-5C9197FA823A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutingRepo", "OutingRepo\OutingRepo.csproj", "{13EED7DE-77DD-4860-9A26-40785F1110FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03D1DA53-60B7-4B97-87EE-5C9197FA823A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D1DA53-60B7-4B97-87EE-5C9197FA823A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D1DA53-60B7-4B97-87EE-5C9197FA823A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D1DA53-60B7-4B97-87EE-5C9197FA823A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13EED7DE-77DD-4860-9A26-40785F1110FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13EED7DE-77DD-4860-9A26-40785F1110FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13EED7DE-77DD-4860-9A26-40785F1110FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13EED7DE-77DD-4860-9A26-40785F1110FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
